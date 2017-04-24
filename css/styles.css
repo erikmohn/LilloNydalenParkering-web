@@ -1,7 +1,3 @@
 .bgimg {
-    background-image: url('../img/logo.png');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
     background-color: #f2862a; 
 }
